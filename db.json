@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "durga",
+      "password": "durga@17",
+      "email": "durga17@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "satya",
+      "password": "satya@17",
+      "email": "satya@24gmail.com",
+      "id": 3
+    },
+    {
+      "name": "12234344",
+      "password": "ggvgfbbvggbbv",
+      "email": "466777787",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
